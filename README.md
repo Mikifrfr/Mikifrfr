@@ -22,4 +22,4 @@ seismology · meteorology · severe weather · tiny ML models
 
 #### langs
 
-`python` `javascript` `rust` `java` `astro`
+`python` `javascript` `rust` `java` `astro` `C` `C++` 
