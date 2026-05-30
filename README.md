@@ -18,8 +18,6 @@ seismology · meteorology · severe weather · tiny ML models
 
 **[Light-Weight-Model-Runner](https://github.com/Mikifrfr/Light-Weight-Model-Runner)** · rust ML model runner
 
-**[earthquake-monitor](https://github.com/Mikifrfr/earthquake-monitor)** · linux desktop widget for USGS live feed
-
 ---
 
 #### langs
