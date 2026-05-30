@@ -1,6 +1,6 @@
 ### miki
 
-cs student @ gorzow wielkopolski, poland
+cs student @  poland
 
 seismology · meteorology · severe weather · tiny ML models
 
@@ -15,8 +15,6 @@ seismology · meteorology · severe weather · tiny ML models
 **[ngram-distilled-lm](https://github.com/Mikifrfr/ngram-distilled-lm)** · 1M param LM from scratch. PPL 22.2 on TinyStories, zero tables at inference.
 
 **[atmos-tools](https://atmocalc.space)** · weather calculators (dew point, wind chill, storm distance, METAR decoder)
-
-**[2D-Weather-Sandbox](https://github.com/Mikifrfr/2D-Weather-Sandbox-Modded)** · realtime interactive troposphere simulation
 
 **[Light-Weight-Model-Runner](https://github.com/Mikifrfr/Light-Weight-Model-Runner)** · rust ML model runner
 
