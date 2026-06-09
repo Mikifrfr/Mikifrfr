@@ -14,8 +14,6 @@ seismology · meteorology · severe weather · tiny ML models
 
 **[ngram-distilled-lm](https://github.com/Mikifrfr/ngram-distilled-lm)** · 1M param LM from scratch. PPL 22.2 on TinyStories, zero tables at inference.
 
-**[atmos-tools](https://atmocalc.space)** · weather calculators (dew point, wind chill, storm distance, METAR decoder)
-
 **[Light-Weight-Model-Runner](https://github.com/Mikifrfr/Light-Weight-Model-Runner)** · rust ML model runner
 
 ---
